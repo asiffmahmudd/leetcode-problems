@@ -496,3 +496,100 @@ java.io.FileNotFoundException: C:\Users\Asif Mahmud\Desktop\leetcode-problems\.m
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+!SESSION 2021-11-28 20:38:49.820 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-11-28 20:41:44.652
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-11-28 20:41:44.652
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d8bd881,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@731ab49b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-11-28 20:41:48.803
+!MESSAGE Error. returning: 0
+!STACK 0
+java.nio.file.NoSuchFileException: C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\Remove_Duplicates_from_Sorted_Array.py
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:198)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1843)
+	at java.base/java.nio.file.Files.getLastModifiedTime(Files.java:2394)
+	at org.python.pydev.shared_core.io.FileUtils.lastModified(FileUtils.java:1081)
+	at org.python.pydev.shared_core.io.FileUtils.lastModified(FileUtils.java:1072)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.addInfoToModuleOnRestoreInsertCommand(AbstractAdditionalDependencyInfo.java:529)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalInfoWithBuild.processInsert(AbstractAdditionalInfoWithBuild.java:192)
+	at org.python.pydev.core.DeltaSaver$DeltaInsertCommand.processWith(DeltaSaver.java:98)
+	at org.python.pydev.core.DeltaSaver.processDeltas(DeltaSaver.java:318)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalInfoWithBuild.restoreSavedInfo(AbstractAdditionalInfoWithBuild.java:103)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.loadContentsFromFile(AbstractAdditionalDependencyInfo.java:499)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.load(AbstractAdditionalDependencyInfo.java:414)
+	at com.python.pydev.analysis.additionalinfo.AdditionalProjectInterpreterInfo.getAdditionalInfoForProject(AdditionalProjectInterpreterInfo.java:247)
+	at com.python.pydev.analysis.additionalinfo.AdditionalProjectInterpreterInfo.recreateAllInfo(AdditionalProjectInterpreterInfo.java:330)
+	at com.python.pydev.analysis.additionalinfo.builders.InterpreterObserver.notifyProjectPythonpathRestored(InterpreterObserver.java:41)
+	at org.python.pydev.plugin.nature.PythonNature$RebuildPythonNatureModules.run(PythonNature.java:201)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-11-28 20:41:48.956
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Asif Mahmud'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-12-03 11:13:59.965 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=14
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2021-12-03 11:14:05.636
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-03 11:14:05.636
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d0abb23,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ab1f85b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-03 11:14:10.472
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Asif Mahmud'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
