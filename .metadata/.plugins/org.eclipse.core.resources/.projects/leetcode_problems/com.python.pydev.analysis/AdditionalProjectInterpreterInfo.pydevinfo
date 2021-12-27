@@ -4,6 +4,7 @@ C:\Users\Asif Mahmud\Desktop\leetcode-problems\.metadata\.plugins\org.eclipse.co
 problems.26_Remove_Duplicates_from_Sorted_Array|1637885209896622300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\26_Remove_Duplicates_from_Sorted_Array.py
 problems.83_Remove_Duplicates_from_Sorted_List|1639755394074400400|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\83_Remove_Duplicates_from_Sorted_List.py
 problems.118_Pascal's_Triangle|1640312610854563700|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\118_Pascal's_Triangle.py
+problems.141_Linked_List_Cycle|1640483186897199500|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\141_Linked_List_Cycle.py
 problems.58_Length_of_Last_Word|1638548351739024900|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\58_Length_of_Last_Word.py
 problems.66_Plus_One|1638666237079511300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\66_Plus_One.py
 problems.53_Maximum_Subarray|1638548309865781000|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\53_Maximum_Subarray.py
@@ -14,42 +15,45 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 problems.35_Search_Insert_Position|1638150197611229300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\35_Search_Insert_Position.py
 -- END DISKCACHE
 -- START DICTIONARY
-21
-3=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\58_Length_of_Last_Word.py
+23
+5=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\58_Length_of_Last_Word.py
 2=problems.118_Pascal's_Triangle
-12=problems.66_Plus_One
-7=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\88_Merge_Sorted_Array.py
-9=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
-10=problems.69_Sqrtx
-16=problems.27_Remove_Element
-5=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\53_Maximum_Subarray.py
-13=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\26_Remove_Duplicates_from_Sorted_Array.py
-15=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\27_Remove_Element.py
-14=problems.26_Remove_Duplicates_from_Sorted_Array
-20=problems.83_Remove_Duplicates_from_Sorted_List
-11=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\66_Plus_One.py
-4=problems.58_Length_of_Last_Word
+14=problems.66_Plus_One
+3=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\141_Linked_List_Cycle.py
+9=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\88_Merge_Sorted_Array.py
+11=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
+12=problems.69_Sqrtx
+18=problems.27_Remove_Element
+7=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\53_Maximum_Subarray.py
+15=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\26_Remove_Duplicates_from_Sorted_Array.py
+17=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\27_Remove_Element.py
+16=problems.26_Remove_Duplicates_from_Sorted_Array
+22=problems.83_Remove_Duplicates_from_Sorted_List
+4=problems.141_Linked_List_Cycle
+13=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\66_Plus_One.py
+6=problems.58_Length_of_Last_Word
 1=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\118_Pascal's_Triangle.py
-6=problems.53_Maximum_Subarray
-17=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\35_Search_Insert_Position.py
-19=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\83_Remove_Duplicates_from_Sorted_List.py
-8=problems.88_Merge_Sorted_Array
-21=Solution
-18=problems.35_Search_Insert_Position
+8=problems.53_Maximum_Subarray
+19=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\35_Search_Insert_Position.py
+21=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\83_Remove_Duplicates_from_Sorted_List.py
+10=problems.88_Merge_Sorted_Array
+23=Solution
+20=problems.35_Search_Insert_Position
 -- END DICTIONARY
 -- START TREE 1
-9
+10
 gen|1|generate!1^7#5*18@
-len|1|lengthOfLastWord!3^6#5*34@
-max|1|maxSubArray!5^6#5*50@
-mer|1|merge!7^6#5*66@
-mys|1|mySqrt!9^6#5*82@
-plu|1|plusOne!11^6#5*98@
-rem|2|removeDuplicates!13^7#5*114@removeElement!15^6#5*130@
-sea|1|searchInsert!17^7#5*146@
-sol|1|Solution!19^12#7*161@
+has|1|hasCycle!3^7#5*34@
+len|1|lengthOfLastWord!5^6#5*50@
+max|1|maxSubArray!7^6#5*66@
+mer|1|merge!9^6#5*82@
+mys|1|mySqrt!11^6#5*98@
+plu|1|plusOne!13^6#5*114@
+rem|2|removeDuplicates!15^7#5*130@removeElement!17^6#5*146@
+sea|1|searchInsert!19^7#5*162@
+sol|1|Solution!21^12#7*177@
 -- END TREE
 -- START TREE 2
 1
-del|1|deleteDuplicates!21&19^13#9*162@
+del|1|deleteDuplicates!23&21^13#9*178@
 -- END TREE
