@@ -1,13 +1,7 @@
-INSTUPproblems.155_Min_Stack
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\155_Min_Stack.py
-INFOS:&&1|1|2|0|3|6|7&&2|4|2|1|3|8|9&&3|5|2|6|3|9|9&&2|7|2|1|3|11|9&&2|8|2|1|3|14|9&&2|9|2|1|3|17|9&&2|10|2|1|3|20|9
-pop=8
-problems.155_Min_Stack=2
-stack=5
-MinStack=1
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\155_Min_Stack.py=3
-top=9
-getMin=10
-__init__=4
-MinStack.__init__=6
-push=7
+INSTUPproblems.160_Intersection_of_Two_Linked_Lists
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\160_Intersection_of_Two_Linked_Lists.py
+INFOS:&&1|1|2|0|3|13|7&&2|4|2|1|3|14|9
+getIntersectionNode=4
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\160_Intersection_of_Two_Linked_Lists.py=3
+problems.160_Intersection_of_Two_Linked_Lists=2
+Solution=1
