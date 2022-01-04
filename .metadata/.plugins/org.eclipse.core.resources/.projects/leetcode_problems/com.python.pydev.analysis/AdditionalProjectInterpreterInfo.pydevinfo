@@ -1,10 +1,11 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\Asif Mahmud\Desktop\leetcode-problems\.metadata\.plugins\org.eclipse.core.resources\.projects\leetcode_problems\com.python.pydev.analysis\v2_indexcache
-problems.155_Min_Stack|1641134383720264000|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\155_Min_Stack.py
+problems.155_Min_Stack|1641228638164051200|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\155_Min_Stack.py
 problems.118_Pascal's_Triangle|1640312610854563700|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\118_Pascal's_Triangle.py
 problems.66_Plus_One|1638666237079511300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\66_Plus_One.py
 problems.__init__|1637877740264811400|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\__init__.py
+problems.160_Intersection_of_Two_Linked_Lists|1641228637102909300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\160_Intersection_of_Two_Linked_Lists.py
 problems.27_Remove_Element|1637931217761121300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\27_Remove_Element.py
 problems.69_Sqrtx|1639753801612715000|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
 problems.121_Best_Time_to_Buy_and_Sell_Stock|1640619101732767600|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\121_Best_Time_to_Buy_and_Sell_Stock.py
@@ -18,19 +19,21 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 problems.35_Search_Insert_Position|1638150197611229300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\35_Search_Insert_Position.py
 -- END DISKCACHE
 -- START DICTIONARY
-31
+33
 7=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\58_Length_of_Last_Word.py
 3=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\141_Linked_List_Cycle.py
+30=problems.160_Intersection_of_Two_Linked_Lists
 17=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
 18=problems.69_Sqrtx
 11=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\53_Maximum_Subarray.py
 21=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\26_Remove_Duplicates_from_Sorted_Array.py
 28=problems.83_Remove_Duplicates_from_Sorted_List
-29=MinStack
+31=MinStack
+29=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\160_Intersection_of_Two_Linked_Lists.py
 8=problems.58_Length_of_Last_Word
 1=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\118_Pascal's_Triangle.py
 25=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\35_Search_Insert_Position.py
-30=Solution
+32=Solution
 26=problems.35_Search_Insert_Position
 16=problems.155_Min_Stack
 9=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\121_Best_Time_to_Buy_and_Sell_Stock.py
@@ -41,7 +44,7 @@ problems.35_Search_Insert_Position|1638150197611229300|C:\Users\Asif Mahmud\Desk
 24=problems.27_Remove_Element
 10=problems.121_Best_Time_to_Buy_and_Sell_Stock
 23=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\27_Remove_Element.py
-31=MinStack.__init__
+33=MinStack.__init__
 22=problems.26_Remove_Duplicates_from_Sorted_Array
 4=problems.141_Linked_List_Cycle
 5=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\125_Valid_Palindrome.py
@@ -64,15 +67,15 @@ mys|1|mySqrt!17^6#5*146@
 plu|1|plusOne!19^6#5*162@
 rem|2|removeDuplicates!21^7#5*178@removeElement!23^6#5*194@
 sea|1|searchInsert!25^7#5*210@
-sol|1|Solution!27^12#7*225@
+sol|2|Solution!27^12#7*225@Solution!29^13#7*241@
 -- END TREE
 -- START TREE 2
 7
-__i|1|__init__!29&15^8#9*130@
-del|1|deleteDuplicates!30&27^13#9*226@
-get|1|getMin!29&15^20#9*130@
-pop|1|pop!29&15^14#9*130@
-pus|1|push!29&15^11#9*130@
-sta|1|stack!31&15^9#9*131@
-top|1|top!29&15^17#9*130@
+__i|1|__init__!31&15^8#9*130@
+del|1|deleteDuplicates!32&27^13#9*226@
+get|2|getIntersectionNode!32&29^14#9*242@getMin!31&15^20#9*130@
+pop|1|pop!31&15^14#9*130@
+pus|1|push!31&15^11#9*130@
+sta|1|stack!33&15^9#9*131@
+top|1|top!31&15^17#9*130@
 -- END TREE
