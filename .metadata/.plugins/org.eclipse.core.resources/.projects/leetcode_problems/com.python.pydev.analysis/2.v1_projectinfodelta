@@ -1,6 +1,13 @@
-INSTUPproblems.217_Contains_Duplicate
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\217_Contains_Duplicate.py
-INFOS:&&2|1|2|0|3|7|5
-containsDuplicate=1
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\217_Contains_Duplicate.py=3
-problems.217_Contains_Duplicate=2
+INSTUPproblems.225_Implement_Stack_using_Queues
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\225_Implement_Stack_using_Queues.py
+INFOS:&&1|1|2|0|3|6|7&&2|4|2|1|3|8|9&&3|5|2|6|3|9|9&&2|7|2|1|3|11|9&&2|8|2|1|3|14|9&&2|9|2|1|3|20|9&&2|10|2|1|3|24|9
+arr=5
+pop=8
+problems.225_Implement_Stack_using_Queues=2
+top=9
+MyStack.__init__=6
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\225_Implement_Stack_using_Queues.py=3
+__init__=4
+MyStack=1
+push=7
+empty=10
