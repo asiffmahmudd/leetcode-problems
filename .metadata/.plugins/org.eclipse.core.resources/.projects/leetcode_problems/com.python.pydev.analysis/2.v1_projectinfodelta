@@ -1,8 +1,7 @@
-INSTUPproblems.110_Balanced_Binary_Tree
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\110_Balanced_Binary_Tree.py
-INFOS:&&1|1|2|0|3|12|7&&2|4|2|1|3|13|9&&2|5|2|1|3|23|9
-problems.110_Balanced_Binary_Tree=2
-calculateDepth=5
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\110_Balanced_Binary_Tree.py=3
+INSTUPproblems.112_Path_Sum
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\112_Path_Sum.py
+INFOS:&&1|1|2|0|3|12|7&&2|4|2|1|3|13|9
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\112_Path_Sum.py=3
+problems.112_Path_Sum=2
+hasPathSum=4
 Solution=1
-isBalanced=4
