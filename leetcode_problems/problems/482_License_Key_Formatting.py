@@ -12,4 +12,4 @@ def licenseKeyFormatting(self, s: str, k: int) -> str:
             start = 0
         result = s[start:] + '-' + result
         s = s[:-k]
-    return result[:-1]
+    return result[:-1
