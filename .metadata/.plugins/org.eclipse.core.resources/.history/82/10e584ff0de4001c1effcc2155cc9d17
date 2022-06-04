@@ -3,15 +3,6 @@ Created on Jun 2, 2022
 
 @author: AsifMahmud
 '''
-# efficient one
-# def constructRectangle(self, area: int) -> List[int]:
-#     peak = int(area ** 0.5)
-#
-#     for i in range(peak, 0, -1):
-#         if(area % i == 0):
-#             return [int(max(i, area / i)), int(min(i, area / i))]
-
-
 def constructRectangle(self, area: int) -> List[int]:
     l = math.ceil(area/2)
     multiples = []
