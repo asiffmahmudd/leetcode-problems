@@ -1,6 +1,7 @@
-INSTUPproblems.496_Next_Greater_Element_I
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\496_Next_Greater_Element_I.py
-INFOS:&&2|1|2|0|3|6|5
-problems.496_Next_Greater_Element_I=2
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\496_Next_Greater_Element_I.py=3
-nextGreaterElement=1
+INSTUPproblems.501_Find_Mode_in_Binary_Search_Tree
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\501_Find_Mode_in_Binary_Search_Tree.py
+INFOS:&&1|1|2|0|3|12|7&&2|4|2|1|3|13|9
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\501_Find_Mode_in_Binary_Search_Tree.py=3
+problems.501_Find_Mode_in_Binary_Search_Tree=2
+findMode=4
+Solution=1
