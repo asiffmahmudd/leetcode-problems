@@ -1,0 +1,12 @@
+'''
+Created on Jun. 18, 2022
+
+@author: AsifMahmud
+'''
+def checkRecord(self, s: str) -> bool:
+    if "LLL" in s:
+        return False
+    s_freq = Counter(s)
+    if s_freq['A'] > 1:
+        return False
+    return True
