@@ -88,6 +88,7 @@ problems.680_Valid_Palindrome_II|C:\Users\Asif Mahmud\Desktop\leetcode-problems\
 problems.682_Baseball_Game|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\682_Baseball_Game.py
 problems.697_Degree_of_an_Array|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\697_Degree_of_an_Array.py
 problems.69_Sqrtx|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
+problems.704_Binary_Search|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\704_Binary_Search.py
 problems.70_Climbing_Stairs|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\70_Climbing_Stairs.py
 problems.724_Find_Pivot_Index|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\724_Find_Pivot_Index.py
 problems.733_Flood_Fill|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\733_Flood_Fill.py
@@ -96,6 +97,8 @@ problems.746_Min_Cost_Climbing_Stairs|C:\Users\Asif Mahmud\Desktop\leetcode-prob
 problems.747_Largest_Number_At_Least_Twice_of_Others|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\747_Largest_Number_At_Least_Twice_of_Others.py
 problems.748_Shortest_Completing_Word|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\748_Shortest_Completing_Word.py
 problems.762_Prime_Number_of_Set_Bits_in_Binary_Representation|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\762_Prime_Number_of_Set_Bits_in_Binary_Representation.py
+problems.766_Toeplitz_Matrix|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\766_Toeplitz_Matrix.py
+problems.771_Jewels_and_Stones|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\771_Jewels_and_Stones.py
 problems.83_Remove_Duplicates_from_Sorted_List|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\83_Remove_Duplicates_from_Sorted_List.py
 problems.88_Merge_Sorted_Array|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\88_Merge_Sorted_Array.py
 problems.905_Sort_Array_By_Parity|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\905_Sort_Array_By_Parity.py
