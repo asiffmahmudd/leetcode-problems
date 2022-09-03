@@ -35,6 +35,7 @@ problems.110_Balanced_Binary_Tree|1644288739748893900|C:\Users\Asif Mahmud\Deskt
 problems.541_Reverse_String_II|1655190903940444600|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\541_Reverse_String_II.py
 problems.401_Binary_Watch|1653063874072347000|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\401_Binary_Watch.py
 problems.69_Sqrtx|1639753801612715000|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
+problems.824_Goat_Latin|1662045887881795500|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\824_Goat_Latin.py
 problems.521_Longest_Uncommon_Subsequence_I|1655306497795449300|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\521_Longest_Uncommon_Subsequence_I.py
 problems.746_Min_Cost_Climbing_Stairs|1659364898877207000|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\746_Min_Cost_Climbing_Stairs.py
 problems.520_Detect_Capital|1654996256259584100|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\520_Detect_Capital.py
@@ -119,13 +120,13 @@ problems.125_Valid_Palindrome|1640791950979128200|C:\Users\Asif Mahmud\Desktop\l
 problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\88_Merge_Sorted_Array.py
 -- END DISKCACHE
 -- START DICTIONARY
-235
+237
 84=problems.350_Intersection_of_Two_Arrays_II
 151=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\203_Remove_Linked_List_Elements.py
 49=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\485_Max_Consecutive_Ones.py
 57=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\594_Longest_Harmonious_Subsequence.py
 131=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\69_Sqrtx.py
-229=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\290_Word_Pattern.py
+231=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\290_Word_Pattern.py
 35=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\434_Number_of_Segments_in_a_String.py
 180=problems.94_Binary_Tree_Inorder_Traversal
 27=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\168_Excel_Sheet_Column_Title.py
@@ -135,7 +136,7 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 8=problems.258_Add_Digits
 130=problems.819_Most_Common_Word
 68=problems.455_Assign_Cookies
-228=problems.680_Valid_Palindrome_II
+230=problems.680_Valid_Palindrome_II
 12=problems.441_Arranging_Coins
 102=problems.812_Largest_Triangle_Area
 174=problems.821_Shortest_Distance_to_a_Character
@@ -153,7 +154,8 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 164=problems.541_Reverse_String_II
 55=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\506_Relative_Ranks.py
 107=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\409_Longest_Palindrome.py
-221=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\405_Convert_a_Number_to_Hexadecimal.py
+222=problems.824_Goat_Latin
+223=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\405_Convert_a_Number_to_Hexadecimal.py
 124=problems.746_Min_Cost_Climbing_Stairs
 215=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\977_Squares_of_a_Sorted_Array.py
 89=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\463_Island_Perimeter.py
@@ -195,9 +197,9 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 189=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\104_Maximum_Depth_of_Binary_Tree.py
 37=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\762_Prime_Number_of_Set_Bits_in_Binary_Representation.py
 118=problems.628_Maximum_Product_of_Three_Numbers
-231=MyStack
+233=MyStack
 123=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\746_Min_Cost_Climbing_Stairs.py
-230=problems.290_Word_Pattern
+232=problems.290_Word_Pattern
 146=problems.66_Plus_One
 194=problems.257_Binary_Tree_Paths
 184=problems.100_Same_Tree
@@ -225,7 +227,7 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 119=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\53_Maximum_Subarray.py
 149=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\26_Remove_Duplicates_from_Sorted_Array.py
 77=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\191_Number_of_1_Bits.py
-232=MinStack
+234=MinStack
 152=problems.203_Remove_Linked_List_Elements
 144=problems.724_Find_Pivot_Index
 204=problems.145_Binary_Tree_Postorder_Traversal
@@ -252,9 +254,9 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 92=problems.342_Power_of_Four
 171=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\35_Search_Insert_Position.py
 113=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\121_Best_Time_to_Buy_and_Sell_Stock.py
-223=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\167_Two_Sum_II_Input_Array_Is_Sorted.py
+225=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\167_Two_Sum_II_Input_Array_Is_Sorted.py
 141=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\771_Jewels_and_Stones.py
-227=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\680_Valid_Palindrome_II.py
+229=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\680_Valid_Palindrome_II.py
 98=problems.766_Toeplitz_Matrix
 43=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\747_Largest_Number_At_Least_Twice_of_Others.py
 52=problems.495_Teemo_Attacking
@@ -281,12 +283,12 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 200=problems.83_Remove_Duplicates_from_Sorted_List
 104=problems.58_Length_of_Last_Word
 213=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\905_Sort_Array_By_Parity.py
-234=Solution
+236=Solution
 172=problems.35_Search_Insert_Position
 17=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\292_Nim_Game.py
 161=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\190_Reverse_Bits.py
 127=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\155_Min_Stack.py
-233=MyStack.__init__
+235=MyStack.__init__
 18=problems.292_Nim_Game
 154=problems.27_Remove_Element
 183=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\100_Same_Tree.py
@@ -316,18 +318,18 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 90=problems.463_Island_Perimeter
 33=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\338_Counting_Bits.py
 173=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\821_Shortest_Distance_to_a_Character.py
-224=problems.167_Two_Sum_II_Input_Array_Is_Sorted
+226=problems.167_Two_Sum_II_Input_Array_Is_Sorted
 186=problems.101_Symmetric_Tree
 169=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\704_Binary_Search.py
 69=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\278_First_Bad_Version.py
 199=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\83_Remove_Duplicates_from_Sorted_List.py
 112=problems.566_Reshape_the_Matrix
-226=problems.804_Unique_Morse_Code_Words
+228=problems.804_Unique_Morse_Code_Words
 7=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\258_Add_Digits.py
 66=problems.643_Maximum_Average_Subarray_I
 209=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\110_Balanced_Binary_Tree.py
 217=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\404_Sum_of_Left_Leaves.py
-222=problems.405_Convert_a_Number_to_Hexadecimal
+224=problems.405_Convert_a_Number_to_Hexadecimal
 26=problems.504_Base_7
 100=problems.263_Ugly_Number
 116=problems.598_Range_Addition_II
@@ -346,18 +348,19 @@ problems.88_Merge_Sorted_Array|1640017652346985700|C:\Users\Asif Mahmud\Desktop\
 182=problems.501_Find_Mode_in_Binary_Search_Tree
 25=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\504_Base_7.py
 72=problems.733_Flood_Fill
-235=MinStack.__init__
+237=MinStack.__init__
 170=problems.704_Binary_Search
+221=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\824_Goat_Latin.py
 155=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py
 206=problems.144_Binary_Tree_Preorder_Traversal
 51=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\495_Teemo_Attacking.py
-225=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\804_Unique_Morse_Code_Words.py
+227=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\804_Unique_Morse_Code_Words.py
 137=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\744_Find_Smallest_Letter_Greater_Than_Target.py
 11=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\441_Arranging_Coins.py
 99=C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\263_Ugly_Number.py
 -- END DICTIONARY
 -- START TREE 1
-62
+63
 __i|3|__init__!1^6#5*18@__init__!3^6#5*34@__init__!5^6#5*50@
 add|3|addDigits!7^6#5*66@add!3^12#5*34@addStrings!9^6#5*82@
 arr|1|arrangeCoins!11^6#5*98@
@@ -415,37 +418,38 @@ sol|17|Solution!179^13#7*1441@Solution!181^12#7*1457@Solution!183^12#7*1473@Solu
 sor|2|sortArrayByParity!213^6#5*1714@sortedSquares!215^6#5*1730@
 sum|2|sumOfLeftLeaves!217^6#5*1746@sumRange!1^11#5*18@
 thi|1|thirdMax!219^6#5*1762@
-toh|1|toHex!221^6#5*1778@
-two|1|twoSum!223^7#5*1794@
-uni|1|uniqueMorseRepresentations!225^6#5*1810@
-val|1|validPalindrome!227^6#5*1826@
-wor|1|wordPattern!229^7#5*1842@
+tog|1|toGoatLatin!221^6#5*1778@
+toh|1|toHex!223^6#5*1794@
+two|1|twoSum!225^7#5*1810@
+uni|1|uniqueMorseRepresentations!227^6#5*1826@
+val|1|validPalindrome!229^6#5*1842@
+wor|1|wordPattern!231^7#5*1858@
 -- END TREE
 -- START TREE 2
 25
-__i|2|__init__!231&133^8#9*1074@__init__!232&127^8#9*1026@
-arr|1|arr!233&133^9#9*1075@
-bin|1|binaryTreePaths!234&193^13#9*1554@
-cal|1|calculateDepth!234&209^23#9*1682@
-del|1|deleteDuplicates!234&199^13#9*1602@
-emp|1|empty!231&133^24#9*1074@
-fin|1|findMode!234&181^13#9*1458@
-get|2|getIntersectionNode!234&191^14#9*1538@getMin!232&127^20#9*1026@
-has|1|hasPathSum!234&197^13#9*1586@
-ino|1|inorderTraversal!234&179^14#9*1442@
-inv|1|invertTree!234&211^13#9*1698@
-isa|1|isAnagram!234&187^7#9*1506@
-isb|1|isBalanced!234&209^13#9*1682@
-iss|2|isSymmetric!234&185^14#9*1490@isSameTree!234&183^13#9*1474@
-len|1|lengthOfLongestSubstring!234&207^7#9*1666@
-low|1|lowestCommonAncestor!234&195^14#9*1570@
-mak|1|makeBST!234&201^18#9*1618@
-max|1|maxDepth!234&189^14#9*1522@
-pop|2|pop!232&127^14#9*1026@pop!231&133^14#9*1074@
-pos|1|postorderTraversal!234&203^13#9*1634@
-pre|1|preorderTraversal!234&205^13#9*1650@
-pus|2|push!231&133^11#9*1074@push!232&127^11#9*1026@
-sor|1|sortedArrayToBST!234&201^13#9*1618@
-sta|1|stack!235&127^9#9*1027@
-top|2|top!232&127^17#9*1026@top!231&133^20#9*1074@
+__i|2|__init__!233&133^8#9*1074@__init__!234&127^8#9*1026@
+arr|1|arr!235&133^9#9*1075@
+bin|1|binaryTreePaths!236&193^13#9*1554@
+cal|1|calculateDepth!236&209^23#9*1682@
+del|1|deleteDuplicates!236&199^13#9*1602@
+emp|1|empty!233&133^24#9*1074@
+fin|1|findMode!236&181^13#9*1458@
+get|2|getIntersectionNode!236&191^14#9*1538@getMin!234&127^20#9*1026@
+has|1|hasPathSum!236&197^13#9*1586@
+ino|1|inorderTraversal!236&179^14#9*1442@
+inv|1|invertTree!236&211^13#9*1698@
+isa|1|isAnagram!236&187^7#9*1506@
+isb|1|isBalanced!236&209^13#9*1682@
+iss|2|isSymmetric!236&185^14#9*1490@isSameTree!236&183^13#9*1474@
+len|1|lengthOfLongestSubstring!236&207^7#9*1666@
+low|1|lowestCommonAncestor!236&195^14#9*1570@
+mak|1|makeBST!236&201^18#9*1618@
+max|1|maxDepth!236&189^14#9*1522@
+pop|2|pop!234&127^14#9*1026@pop!233&133^14#9*1074@
+pos|1|postorderTraversal!236&203^13#9*1634@
+pre|1|preorderTraversal!236&205^13#9*1650@
+pus|2|push!233&133^11#9*1074@push!234&127^11#9*1026@
+sor|1|sortedArrayToBST!236&201^13#9*1618@
+sta|1|stack!237&127^9#9*1027@
+top|2|top!234&127^17#9*1026@top!233&133^20#9*1074@
 -- END TREE
