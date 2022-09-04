@@ -1,0 +1,21 @@
+'''
+Created on Sep. 4, 2022
+
+@author: AsifMahmud
+'''
+def findTilt(self, root: Optional[TreeNode]) -> int:
+        
+    def getSum(root):
+        if not root:
+            return 0
+        leftSum = getSum(root.left)
+        rightSum = getSum(root.right)
+        return root.val + leftSum + rightSum
+    
+    def getTilt(root):
+        if root:
+            root.val = abs(getSum(root.left) - getSum(root.right))
+            getTilt(root.left)
+            getTilt(root.right)
+    getTilt(root)
+    return getSum(root)
