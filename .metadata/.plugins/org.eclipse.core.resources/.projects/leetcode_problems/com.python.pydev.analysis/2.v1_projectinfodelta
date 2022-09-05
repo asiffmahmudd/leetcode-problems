@@ -1,6 +1,7 @@
-INSTUPproblems.563_Binary_Tree_Tilt
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\563_Binary_Tree_Tilt.py
-INFOS:&&2|1|2|0|3|6|5
-findTilt=1
-C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\563_Binary_Tree_Tilt.py=3
-problems.563_Binary_Tree_Tilt=2
+INSTUPproblems.572_Subtree_of_Another_Tree
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\572_Subtree_of_Another_Tree.py
+INFOS:&&2|1|2|0|3|6|5&&2|4|2|0|3|15|5
+isSubtree=1
+C:\Users\Asif Mahmud\Desktop\leetcode-problems\leetcode_problems\problems\572_Subtree_of_Another_Tree.py=3
+problems.572_Subtree_of_Another_Tree=2
+isSameTree=4
