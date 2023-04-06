@@ -1,0 +1,9 @@
+def largestSumAfterKNegations(self, nums: List[int], k: int) -> int:
+    nums.sort()
+    arr_len = len(nums)
+    j = 0
+    for i in range(k):
+        nums[j] *= -1
+        if(i+1 < arr_len and nums[i+1] < nums[j]):
+            j += 1
+    return sum(nums)
