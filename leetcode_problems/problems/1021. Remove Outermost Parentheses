@@ -1,0 +1,13 @@
+def removeOuterParentheses(self, s: str) -> str:
+    result = ""
+    tmp = []
+    for p in s:
+        if p == '(':
+            tmp.append(p)
+        elif p == ')':
+            tmp.pop(0)
+            if len(tmp) == 1:
+                result += p
+        if len(tmp) > 1:
+            result += p
+    return result
